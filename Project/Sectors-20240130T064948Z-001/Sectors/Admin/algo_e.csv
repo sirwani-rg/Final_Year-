@@ -1,0 +1,11 @@
+Algorithm_,MSE_,R2_
+fbProphet,13005.981,0.9890329
+Random Forest Regressor,14071.837,0.95426584
+SGD Regressor,14532.562,0.92956261
+Bayesian Ridge,15723.901,0.92465052
+Lasso Lars,15551.273,0.92365271
+ARD Regression,15977.723,0.92085175
+Passive Aggressive Regressor,16782.253,0.91076543
+TheilSen Regressor,15466.558,0.91075194
+ElasticNet CV,13983.857,0.90894079
+Linear Regression,14012.058,0.91073568
